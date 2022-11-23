@@ -26,5 +26,4 @@
 <a href="mailto:f.gondin0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/qr/AFDCHUFETN5VA1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
- ![github-user-contribution](https://user-images.githubusercontent.com/108304623/203648747-c8a26225-6308-48a5-87ae-a11fff8393f0.svg)
-</div>
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fgondin&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
