@@ -28,4 +28,4 @@
 
   ![Snake animation](https://github.com/fgondin/fgondin/blob/output/github-contribution-grid-snake.svg)
   
-  </div>
+</div>
